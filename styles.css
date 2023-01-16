@@ -5,6 +5,7 @@ table{
 	width:700px;
 	font-family:monospace;
 	font-style:italic;
+	border:2px solid lightgray;
 }
 
 tr:nth-child(even){
