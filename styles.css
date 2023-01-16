@@ -1,1 +1,18 @@
 /* your code */
+
+
+table{
+	width:700px;
+	font-family:monospace;
+	font-style:italic;
+}
+
+tr:nth-child(even){
+	background-color:lightgray;
+	
+}
+thead{
+	background-color:#4B78B0;
+	color:white;
+	
+}
